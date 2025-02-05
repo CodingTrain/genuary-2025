@@ -54,41 +54,33 @@
     <tr>
      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/aKpSRXUDb"> <img class="img" src="assets/17.jpg" alt="What happens if pi is 4" style="vertical-align:top;" width="500" /><br /><sub><b>January 17<br/>What happens if pi is 4</b></sub></a></td>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/trU7d3k_D"> <img class="img" src="assets/18.jpg" alt="What does wind look like" style="vertical-align:top;" width="500" /><br /><sub><b>January 18<br/>What does wind look like?</b></sub></a></td>
-        <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/7PHrMFXQB"> <img class="img" src="assets/19.jpg" alt="Op Art" style="vertical-align:top;" width="500" /><br /><sub><b>January 19<br/>Op Art</b></sub></a></td>
-           <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/wTqoRBh9g"> <img class="img" src="assets/20.jpg" alt="Op Art" style="vertical-align:top;" width="500" /><br /><sub><b>January 20<br/>Generative Architecture</b></sub></a></td>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/7PHrMFXQB"> <img class="img" src="assets/19.jpg" alt="Op Art" style="vertical-align:top;" width="500" /><br /><sub><b>January 19<br/>Op Art</b></sub></a></td>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/wTqoRBh9g"> <img class="img" src="assets/20.jpg" alt="Op Art" style="vertical-align:top;" width="500" /><br /><sub><b>January 20<br/>Generative Architecture</b></sub></a></td>
     </tr>
     <tr>
    <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/nu3kDJaSE"> <img class="img" src="assets/21.jpg" alt="Create a collision detection system (no libraries allowed)" style="vertical-align:top;" width="500" /><br /><sub><b>January 21<br/>Create a collision detection system (no libraries allowed)</b></sub></a>
-    </td>
-       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/SyvZHuAPi"> <img class="img" src="assets/22.jpg" alt="Gradients Only" style="vertical-align:top;" width="500" /><br /><sub><b>January 22<br/>Gradients Only</b></sub></a>
-    </td>
-    </td>
-       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/a6oxcDKdp"> <img class="img" src="assets/23.jpg" alt="Inspired by brutalism." style="vertical-align:top;" width="500" /><br /><sub><b>January 23<br/>Inspired by brutalism.</b></sub></a>
-    </td>
-    </td>
-    </td>
-       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/6zxdFkCg1"> <img class="img" src="assets/24.jpg" alt="Geometric art" style="vertical-align:top;" width="500" /><br /><sub><b>January 24<br/>Geometric art - pick either a circle, rectangle, or triangle and use only that geometric shape.</b></sub></a>
-    </td>
-    </tr>
-    <tr>
-     </td>
-       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/v3EJRrwWAu15"> <img class="img" src="assets/25.jpg" alt="One line that may or may not intersect itself" style="vertical-align:top;" width="500" /><br /><sub><b>January 25<br/>One line that may or may not intersect itself</b></sub></a>
-    </td>
    </td>
-       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/bHuy3kn6m"> <img class="img" src="assets/26.jpg" alt="Symmetry" style="vertical-align:top;" width="500" /><br /><sub><b>January 26<br/>Symmetry</b></sub></a>
+   <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/SyvZHuAPi"> <img class="img" src="assets/22.jpg" alt="Gradients Only" style="vertical-align:top;" width="500" /><br /><sub><b>January 22<br/>Gradients Only</b></sub></a>
     </td>
-     </td>
-       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/msw31p_F1"> <img class="img" src="assets/27.jpg" alt="No randomness or trig" style="vertical-align:top;" width="500" /><br /><sub><b>January 27<br/>Make something interesting with no randomness or noise or trig.</b></sub></a>
+   <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/a6oxcDKdp"> <img class="img" src="assets/23.jpg" alt="Inspired by brutalism." style="vertical-align:top;" width="500" /><br /><sub><b>January 23<br/>Inspired by brutalism.</b></sub></a>
+   </td>
+   <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/6zxdFkCg1"> <img class="img" src="assets/24.jpg" alt="Geometric art" style="vertical-align:top;" width="500" /><br /><sub><b>January 24<br/>Geometric art - pick either a circle, rectangle, or triangle and use only that geometric shape.</b></sub></a>
+   </td>
+   </tr>
+    <tr>
+   <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/v3EJRrwWAu15"> <img class="img" src="assets/25.jpg" alt="One line that may or may not intersect itself" style="vertical-align:top;" width="500" /><br /><sub><b>January 25<br/>One line that may or may not intersect itself</b></sub></a>
     </td>
+   <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/bHuy3kn6m"> <img class="img" src="assets/26.jpg" alt="Symmetry" style="vertical-align:top;" width="500" /><br /><sub><b>January 26<br/>Symmetry</b></sub></a>
     </td>
-       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/N_AqCQiee"> <img class="img" src="assets/28.jpg" alt="Infinite Scroll" style="vertical-align:top;" width="500" /><br /><sub><b>January 28<br/>Infinite Scroll</b></sub></a>
+   <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/msw31p_F1"> <img class="img" src="assets/27.jpg" alt="No randomness or trig" style="vertical-align:top;" width="500" /><br /><sub><b>January 27<br/>Make something interesting with no randomness or noise or trig.</b></sub></a>
+    </td>
+   <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/N_AqCQiee"> <img class="img" src="assets/28.jpg" alt="Infinite Scroll" style="vertical-align:top;" width="500" /><br /><sub><b>January 28<br/>Infinite Scroll</b></sub></a>
     </td>
     </tr>
     <tr>
      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/OyFIaCx4q"> <img class="img" src="assets/29.jpg" alt="Grid-based graphic design." style="vertical-align:top;" width="500" /><br /><sub><b>January 29<br/>Grid-based graphic design.</b></sub></a>
     </td>
      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/EOEaKBz44"> <img class="img" src="assets/30.jpg" alt="Abstract Map" style="vertical-align:top;" width="500" /><br /><sub><b>January 30<br/>Abtract Map.</b></sub></a>
-    </td>
     </td>
      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/6SIPfKpwV"> <img class="img" src="assets/31.jpg" alt="Pixel Sorting" style="vertical-align:top;" width="500" /><br /><sub><b>January 31<br/>Pixel Sorting.</b></sub></a>
     </td>
