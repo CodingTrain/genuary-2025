@@ -1,10 +1,16 @@
-# genuary-2025
-Speed run for Genuary 2025
 
+# Genuary 2025 Speed run
 
-# Genuary 2025
+[Livestream](https://www.youtube.com/watch?v=c1BPd8omBro)
 
 [Genuary 2025](https://genuary.art)
+
+## Ground Rules
+
+- goal is max 4 minutes per prompt
+- no AI tools (unless the prompt indicates it)
+- can start from Coding Train example (must change at least 1 line of code)
+- everything in p5 web editor or Processing
 
 ## 🌄 Gallery
 
@@ -26,10 +32,10 @@ Speed run for Genuary 2025
     <tr>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/rp2h5D4iL"> <img class="img" src="assets/5.jpg" alt="Isometric Art (No vanishing points)." style="vertical-align:top;" width="500" /><br /><sub><b>January 5<br/>Isometric Art (No vanishing points).</b></sub></a></td>
       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/zOtfu6SW26"> <img class="img" src="assets/6.jpg" alt="Landscape with primitive Shapes" style="vertical-align:top;" width="500" /><br /><sub><b>January 6<br/>Landscape with primitive Shapes</b></sub></a></td>
-      <td align="center"><a href=""> <img class="img" src="assets/7.png" alt="Use software that is not intended to create art or images." style=" display: block;
+      <td align="center"><a href=""> <img class="img" src="assets/7.jpg" alt="Use software that is not intended to create art or images." style=" display: block;
       margin-left: auto;
-      margin-right: auto;" width="500" /><br /><sub><b>January 7<br/>Use software that is not intended to create art or images.</b></sub></a></td>
-      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/VUaFfYYfn"> <img class="img" src="assets/8.png" alt="Draw one million of something" style=" display: block;
+      margin-right: auto;" width="500" /><br /><sub><b>January 7<br/>Use software that is not intended to create art or images: Ascii fish in Notepad</b></sub></a></td>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/VUaFfYYfn"> <img class="img" src="assets/8.jpg" alt="Draw one million of something" style=" display: block;
       margin-left: auto;
       margin-right: auto;" width="500" /><br /><sub><b>January 8<br/>Draw one million of something</b></sub></a></td>
     </tr>
@@ -40,10 +46,10 @@ Speed run for Genuary 2025
        <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/htcuHOxZ-"> <img class="img" src="assets/12.jpg" alt="Subdivision" style="vertical-align:top;" width="500" /><br /><sub><b>January 12<br/>Subdivision</b></sub></a></td>
     </tr>
     <tr>
-      <td align="center"><a href=""> <img class="img" src="assets/13.jpg" alt="Triangles and Nothing else" style="vertical-align:top;" width="500" /><br /><sub><b>January 13<br/>Triangles and Nothing else</b></sub></a></td>
-      <td align="center"><a href=""> <img class="img" src="assets/14b.jpg" alt="Black and White. No Gray" style="vertical-align:top;" width="500" /><br /><sub><b>January 14<br/>Black and White. No Gray</b></sub></a></td>
-       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/1ctRwS9C0"> <img class="img" src="assets/15.jpg" alt="Design a rug" style="vertical-align:top;" width="500" /><br /><sub><b>January 15<br/>Design a rug</b></sub></a></td>
-       <td align="center"><a href=""> <img class="img" src="assets/16.jpg" alt="Generative Palette" style="vertical-align:top;" width="500" /><br /><sub><b>January 16<br/>Generative Palette</b></sub></a></td>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/lx7X3_vTE"> <img class="img" src="assets/13.jpg" alt="Triangles and Nothing else" style="vertical-align:top;" width="500" /><br /><sub><b>January 13<br/>Triangles and Nothing else</b></sub></a></td>
+      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/TmIwX6a0P"> <img class="img" src="assets/14.jpg" alt="Black and White. No Gray" style="vertical-align:top;" width="500" /><br /><sub><b>January 14<br/>Black and White. No Gray</b></sub></a></td>
+       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/uOVbzit6g"> <img class="img" src="assets/15.jpg" alt="Design a rug" style="vertical-align:top;" width="500" /><br /><sub><b>January 15<br/>Design a rug</b></sub></a></td>
+       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/0g5SAzX13"> <img class="img" src="assets/16.jpg" alt="Generative Palette" style="vertical-align:top;" width="500" /><br /><sub><b>January 16<br/>Generative Palette</b></sub></a></td>
     </tr>
     <tr>
      <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/aKpSRXUDb"> <img class="img" src="assets/17.jpg" alt="What happens if pi is 4" style="vertical-align:top;" width="500" /><br /><sub><b>January 17<br/>What happens if pi is 4</b></sub></a></td>
@@ -72,10 +78,10 @@ Speed run for Genuary 2025
        <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/bHuy3kn6m"> <img class="img" src="assets/26.jpg" alt="Symmetry" style="vertical-align:top;" width="500" /><br /><sub><b>January 26<br/>Symmetry</b></sub></a>
     </td>
      </td>
-       <td align="center"><a href=""> <img class="img" src="assets/27.jpg" alt="No randomness or trig" style="vertical-align:top;" width="500" /><br /><sub><b>January 27<br/>Make something interesting with no randomness or noise or trig.</b></sub></a>
+       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/msw31p_F1"> <img class="img" src="assets/27.jpg" alt="No randomness or trig" style="vertical-align:top;" width="500" /><br /><sub><b>January 27<br/>Make something interesting with no randomness or noise or trig.</b></sub></a>
     </td>
     </td>
-       <td align="center"><a href=""> <img class="img" src="assets/28.jpg" alt="Infinite Scroll" style="vertical-align:top;" width="500" /><br /><sub><b>January 28<br/>Infinite Scroll</b></sub></a>
+       <td align="center"><a href="https://editor.p5js.org/codingtrain/sketches/N_AqCQiee"> <img class="img" src="assets/28.jpg" alt="Infinite Scroll" style="vertical-align:top;" width="500" /><br /><sub><b>January 28<br/>Infinite Scroll</b></sub></a>
     </td>
     </tr>
     <tr>
