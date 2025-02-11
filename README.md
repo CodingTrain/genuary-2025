@@ -1,16 +1,14 @@
-
 # Genuary 2025 Speed run
 
-[Livestream](https://www.youtube.com/watch?v=c1BPd8omBro)
-
-[Genuary 2025](https://genuary.art)
+- 🚂 [Watch the archive of the live stream](https://www.youtube.com/watch?v=c1BPd8omBro)
+- 🎨 [The Genuary 2025 website with all prompts](https://genuary.art)
 
 ## Ground Rules
 
-- goal is max 4 minutes per prompt
-- no AI tools (unless the prompt indicates it)
-- can start from Coding Train example (must change at least 1 line of code)
-- everything in p5 web editor or Processing
+- The goal is no more than 4 minutes per prompt!
+- Can start from a Coding Train example, but must change at least 1 line of code
+- Using only the p5.js web editor of the Processing development environment
+- No "AI" tools (unless the prompt calls for it)
 
 ## 🌄 Gallery
 
